@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**Vick-ss/Vick-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  ⋆｡‧˚ʚ🍓ɞ˚‧Olá! Eu sou a Vick 👋⋆｡‧˚ʚ🍓ɞ˚‧
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de **Sistemas de Informação** (PUC Minas)  
+💻 Em transição para a área de **Tecnologia**, com foco em **UX/UI Design** e desenvolvimento  
+
+Sou uma pessoa curiosa e apaixonada por aprender. Estou construindo minha base em programação e UX/UI.Atualmente, estudo lógica de programação, desenvolvimento web e estou me aprofundando em fundamentos de **UX/UI Design**, além de participar de programas e cursos voltados para tecnologia e inovação.
+
+𖹭.ᐟ Conheça meus projetos de Ux/Ui : [Portfólio](https://www.notion.so/OrganizaMente-Aplicativo-de-foco-e-organiza-o-2805cc433b12813eacbddfb80d9cd68d)
+
+
+---
+
+## 👾 Interesses
+- UX/UI Design  
+- Desenvolvimento Web  
+- Automações e teste de software
+
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQL" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Figma" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+
+</div>
+
+---
+<div> 
+  <a href="https://discordapp.com/users/vicksantana7033" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:vicksantana517@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vitória-de-santana-silveira-a0a7b735b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+
+
