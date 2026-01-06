@@ -9,6 +9,9 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="200">
+
 
 
 ##  ⋆｡‧˚ʚ🍓ɞ˚‧Olá! Eu sou a Vick 👋⋆｡‧˚ʚ🍓ɞ˚‧
