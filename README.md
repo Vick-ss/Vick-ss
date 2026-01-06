@@ -1,6 +1,17 @@
 
-##  ⋆｡‧˚ʚ🍓ɞ˚‧Olá! Eu sou a Vick 👋⋆｡‧˚ʚ🍓ɞ˚‧
 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
+
+
+##  ⋆｡‧˚ʚ🍓ɞ˚‧Olá! Eu sou a Vick 👋⋆｡‧˚ʚ🍓ɞ˚‧
 
 🎓 Estudante de **Sistemas de Informação** (PUC Minas)  
 💻 Em transição para a área de **Tecnologia**, com foco em **UX/UI Design** e desenvolvimento  
